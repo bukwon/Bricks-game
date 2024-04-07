@@ -1,0 +1,5 @@
+﻿  bricksTest1.cpp
+C:\Users\USER\source\repos\bricksTest1\bricksTest1\bricksTest1.cpp(45,19): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\source\repos\bricksTest1\bricksTest1\bricksTest1.cpp(521,10): warning C4101: 'fromClientInput' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\source\repos\bricksTest1\bricksTest1\bricksTest1.cpp(516): warning C4715: 'THD::Soc_Cli': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  bricksTest1.vcxproj -> C:\Users\USER\source\repos\bricksTest1\Debug\bricksTest1.exe
